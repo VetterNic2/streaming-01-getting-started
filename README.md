@@ -1,4 +1,4 @@
-# streaming-01-getting-started
+# streaming-01-getting-started - Nic Vetter - Streaming Data
 
 > Get started with Python for streaming analytics
 
@@ -13,6 +13,10 @@ Getting good at them helps you build better analytics projects more efficiently.
 
 ## Prerequisites
 
+# All of the Prerequisites have been met from prior courses. 
+
+# I also reconfigured my GitHub to my new account. 
+
 You should have these downloaded and installed on your machine:
 
 1. Python 3.10 or higher
@@ -22,15 +26,21 @@ You should have these downloaded and installed on your machine:
 
 Remember:
 
-- **Spacing, Spelling, Capitalization**: When programming, these are critical. Always double-check!
+# Thank you for this reminder Dr. Case. It is always tough to remember which languages are case-sensitive!
+
+- **Spacing, Spelling, Capitalization**: When programming, these are critical. Always double-check! 
 
 ---
 
 ## Open Project Folder in VS Code
 
+# This worked without an Issue. - Nic
+
 In VS Code, open just your project repository folder, e.g. Documents/streaming-01-getting-started.
 
 ## Verify Installations / Update Default Python
+
+# This worked without an Issue and I verified it in the discussion. - Nic
 
 In VS Code, open a terminal window (View / Terminal) and verify your software is installed and configured.
 
@@ -57,7 +67,7 @@ If not, post your screenshots and the text of the error message in the discussio
 They all must run successfully before continuing.
 
 ## Execute Utility Script (Diagnostics)
-
+# This worked without an Issue. - Nic
 With your repo folder open in VS Code:
 
 1. Click util_about.py.
@@ -86,6 +96,7 @@ This script must run successfully before continuing.
 
 
 ## Explore & Execute Project Scripts
+# This worked without an Issue. - Nic
 
 With our project repository folder open in VS Code, and having confirmed that we can execute a Python script successfully, it's time to explore. 
 
@@ -126,6 +137,7 @@ If not, post screenshots and the text of any error messages in the discussion.
 ---
 
 ## Update Edit README
+# Completed - Nic
 
 Edit this README.md file. It uses Markdown, a simple and easy markup language.
 
